@@ -8,6 +8,7 @@
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation <IconLink/></a>
         <NLink to="/about" class="button--grey">About</NLink>
       </div>
+      <p>明天</p>
     </div>
   </section>
 </template>
